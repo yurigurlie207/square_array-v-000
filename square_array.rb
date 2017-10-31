@@ -12,4 +12,5 @@ def square_array(array)
   array.collect { |square| square * square}
 end
 
-square_array([1,2,3]).inspect
+temp = square_array([1,2,3])
+temp.inspect
