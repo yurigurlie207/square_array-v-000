@@ -4,7 +4,7 @@
 #   array.each do |square|
 #     myArray << square * square
 #   end
-# 
+#
 #   return myArray
 # end
 
