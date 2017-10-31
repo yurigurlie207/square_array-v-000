@@ -13,4 +13,4 @@ def square_array(array)
   myArray.push(array.collect { |square| square * square})
 end
 
-temp = square_array([1,2,3])
+square_array([1,2,3])
