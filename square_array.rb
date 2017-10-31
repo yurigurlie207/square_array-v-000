@@ -5,9 +5,9 @@ def square_array(array)
     myArray << square * square
   end
 
-return myArray
+  return myArray
 end
 
 def square_array(array)
-  
+
 end
