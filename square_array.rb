@@ -7,3 +7,7 @@ def square_array(array)
 
 return myArray
 end
+
+def square_array(array)
+
+end
