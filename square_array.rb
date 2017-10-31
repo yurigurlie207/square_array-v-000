@@ -11,6 +11,8 @@
 def square_array(array)
   myArray = Array.new
   myArray.push(array.collect { |square| square * square})
+
+  puts "#{myArray}"
 end
 
 
