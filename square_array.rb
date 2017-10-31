@@ -12,4 +12,4 @@ def square_array(array)
   puts array.collect { |square| square * square}
 end
 
-square_array(["1","2","3"])
+square_array([1,2,3])
