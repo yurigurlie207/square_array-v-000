@@ -10,7 +10,7 @@
 
 def square_array(array)
   myArray = Array.new
-  array.collect { |square| square * square}
+  myArray.push(array.collect { |square| square * square})
 end
 
 
