@@ -9,7 +9,6 @@ def square_array(array)
 end
 
 def square_array(array)
-  array.collect { |square|
-    square* square
-  }
+
+    return array.collect { |square| square* square}
 end
