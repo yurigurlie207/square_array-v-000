@@ -9,10 +9,10 @@
 # end
 
 def square_array(array)
-  myArray = Array.new
-  myArray.push(array.collect { |square| square * square})
 
-  puts "#{myArray}"
+  array.collect { |square| square * square})
+
 end
 
-square_array([1,2,3])
+
+puts square_array([1,2,3])}
